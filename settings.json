@@ -1,0 +1,6 @@
+{
+    "theme": "GreenTan",
+    "unit": "mmHg",
+    "date_format": "%Y-%m-%d",
+    "save_folder": "./code/python/python_repository_files/"
+}

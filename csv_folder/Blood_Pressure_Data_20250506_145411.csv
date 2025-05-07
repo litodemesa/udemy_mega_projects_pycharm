@@ -1,0 +1,18 @@
+Date,Systolic_1,Systolic_2,Systolic_3,Diastolic_1,Diastolic_2,Diastolic_3,Pulse_1,Pulse_2,Pulse_3,Systolic_Avg,Diastolic_Avg,Pulse_Avg,Multi_Vitamin,Telmisartan,Amlodipine,Rosuvastatin,B_Complex,Losartan
+Jan 10 2025 8:28:52 Friday,130,129,132,88,80,82,87,88,88,130,83,88,Yes,Yes,Yes,Yes,Yes,No
+Jan 11 2025 10:12:12 Saturday,127,129,132,84,76,81,80,70,88,129,80,79,Yes,Yes,Yes,Yes,Yes,No
+Jan 12 2025 11:00:45 Sunday,127,129,130,77,67,75,87,86,78,129,73,84,Yes,Yes,Yes,Yes,Yes,No
+Jan 17 2025 9:34:12 Friday,123,123,119,67,64,73,70,76,88,122,68,78,Yes,Yes,Yes,Yes,Yes,No
+Jan 25 2025 11:12:07 Saturday,116,115,110,67,77,66,69,77,85,113,70,77,Yes,Yes,Yes,Yes,Yes,No
+Jan 27 2025 8:44:22 Monday,119,120,119,87,86,78,77,68,76,119,84,74,Yes,Yes,Yes,Yes,Yes,No
+Feb 4 2025 9:23:22 Tuesday,122,129,119,77,67,66,87,84,88,124,70,86,Yes,Yes,Yes,Yes,Yes,No
+Feb 8 2025 10:22:09 Saturday,119,122,129,67,62,72,77,69,85,124,67,77,Yes,Yes,Yes,Yes,Yes,No
+Mar 1 2025  7:45:11 Saturday,119,124,126,66,65,62,70,76,88,123,64,78,Yes,Yes,Yes,Yes,Yes,No
+Apr 1 2025 8:22:17 Tuesday,120,119,120,65,65,62,70,76,88,120,63,78,Yes,Yes,Yes,Yes,Yes,No
+Apr 23 2025 18:55:14 Wednesday,119,120,120,67,62,72,77,69,83,120,67,76,Yes,Yes,Yes,Yes,Yes,No
+Apr 24 2025 22:37:11 Thursday,132,121,117,64,62,63,71,72,67,123,63,70,No,No,Yes,Yes,Yes,Yes
+Apr 26 2025 22:24:32 Saturday,121,125,125,69,71,71,71,71,71,124,70,71,No,No,Yes,Yes,Yes,Yes
+Apr 27 2025 13:06:45 Sunday,129,120,119,67,78,77,87,77,68,123,74,77,No,No,Yes,Yes,Yes,Yes
+May 01 2025 14:40:32 Thursday,128,124,125,68,66,66,75,75,76,126,67,75,No,No,Yes,Yes,Yes,Yes
+May 02 2025 19:33:12 Friday,130,117,123,66,67,64,77,79,78,123,66,78,No,No,Yes,Yes,Yes,Yes
+May 06 2025 14:52:36 Tuesday,132,128,128,66,66,70,80,79,77,129,67,79,No,No,Yes,Yes,Yes,Yes
